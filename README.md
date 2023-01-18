@@ -1,2 +1,3 @@
-# evaluation-of-object-detection
-implentation of average precision and average recall
+# Evaluation of Object Detection
+
+The presented notebook consists of implementation of Average Precision and Average Recall for object detection. 
