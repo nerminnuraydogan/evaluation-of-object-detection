@@ -11,7 +11,7 @@ The implementation of the Average Precision in this notebook is adapted from the
 - AP is calculated at 101 points rather than 11 points, on ranging recall values from 0 to 1 at a step of 0.01
 - AP is calculated for a set of 10 different IoU thresholds and then averaged. The IoU threshold ranges from 0.5 to 0.95 at a step frequency of 0.05
 
-For step-by-step tutorial, check out [this blog post](https://learnopencv.com/mean-average-precision-map-object-detection-model-evaluation-metric/) 
+For step-by-step tutorial, check out [this blog post](https://learnopencv.com/mean-average-precision-map-object-detection-model-evaluation-metric/).
 
 <img src='https://learnopencv.com/wp-content/uploads/2022/08/mean-average-precision-map-how-to-interpolate-11-points-precision.jpg' width=50% height=50% />
 
