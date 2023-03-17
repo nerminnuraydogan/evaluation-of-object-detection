@@ -13,7 +13,7 @@ The implementation of the Average Precision in this notebook is adapted from the
 
 For step-by-step tutorial, check out [this blog post](https://learnopencv.com/mean-average-precision-map-object-detection-model-evaluation-metric/) 
 
-![precision-recall-curve](https://learnopencv.com/wp-content/uploads/2022/08/mean-average-precision-map-how-to-interpolate-11-points-precision.jpg)
+<img src='https://learnopencv.com/wp-content/uploads/2022/08/mean-average-precision-map-how-to-interpolate-11-points-precision.jpg' width=50% height=50% />
 
 >### Average Recall
 
